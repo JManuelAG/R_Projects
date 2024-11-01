@@ -1,0 +1,276 @@
+Suburb,Price,YearBuilt,MetroRegion,MultipleBath,WithinTenCBD
+Collingwood,1230000,1920,Northern,Yes,Yes
+Carlton,1616000,1890,Northern,No,Yes
+Carlton,2705000,,Northern,Yes,Yes
+Southern Melbourne,930000,1900,Southern,No,Yes
+Southern Melbourne,1720000,,Southern,No,Yes
+Abbotsford,1290000,1950,Northern,No,Yes
+Abbotsford,1290000,,Northern,Yes,Yes
+Richmond,1540000,,Northern,No,Yes
+Richmond,1555000,1900,Northern,Yes,Yes
+Richmond,1361000,,Northern,Yes,Yes
+Melbourne,1630000,,Northern,Yes,Yes
+Albert Park,1340000,,Southern,No,Yes
+Albert Park,1801000,,Southern,No,Yes
+Southern Yarra,1800000,1900,Southern,Yes,Yes
+Albert Park,4735000,1910,Southern,Yes,Yes
+Southern Yarra,1400000,2005,Southern,Yes,Yes
+Clifton Hill,1430000,1910,Northern,No,Yes
+Clifton Hill,1506000,1995,Northern,Yes,Yes
+Fitzroy Northern,1600000,,Northern,No,Yes
+Burnley,1435000,1890,Northern,No,Yes
+Port Melbourne,1655000,,Southern,No,Yes
+Port Melbourne,1400000,1934,Southern,No,Yes
+Port Melbourne,1520000,2016,Southern,Yes,Yes
+Middle Park,1920000,1910,Southern,No,Yes
+Kensington,868000,2000,Northern,No,Yes
+Kensington,1335000,,Northern,No,Yes
+Prahran,1582000,1915,Southern,No,Yes
+Prahran,1720000,1999,Southern,Yes,Yes
+Prahran,1050000,1995,Southern,Yes,Yes
+Hawthorn,1535000,,Southern,No,Yes
+Hawthorn,2410000,1890,Southern,Yes,Yes
+Toorak,1900000,,Southern,Yes,Yes
+Toorak,3260000,,Southern,Yes,Yes
+Windsor,1325000,,Southern,No,Yes
+Brunswick,1260000,1925,Northern,No,Yes
+Brunswick,1105000,,Northern,No,Yes
+Brunswick,1020000,,Northern,No,Yes
+Brunswick,1510000,1920,Northern,No,Yes
+Brunswick,810000,,Northern,Yes,Yes
+Northerncote,1300000,,Northern,Yes,Yes
+Kew,1668000,,Southern,Yes,Yes
+Kew,2425000,1890,Southern,Yes,Yes
+Kew,2850000,1890,Southern,Yes,Yes
+Ascot Vale,1440000,1900,Western,No,Yes
+Ascot Vale,1345000,1920,Western,No,Yes
+Brunswick Western,1700000,1920,Northern,Yes,Yes
+Ascot Vale,1381500,1900,Western,Yes,Yes
+St Kilda,1435000,,Southern,No,Yes
+Armadale,1285000,1920,Southern,No,Yes
+Armadale,3660000,,Southern,Yes,Yes
+Footscray,950000,1940,Western,No,Yes
+Footscray,740000,1910,Western,No,Yes
+Footscray,850000,1930,Western,No,Yes
+Thornbury,1430000,,Northern,No,Yes
+Thornbury,1211000,1915,Northern,No,Yes
+Thornbury,1280000,1910,Northern,No,Yes
+Thornbury,1478000,1900,Northern,Yes,Yes
+Thornbury,1280000,,Northern,Yes,Yes
+Thornbury,1913000,1930,Northern,Yes,Yes
+Balaclava,981000,1930,Southern,No,Yes
+Seddon,1032000,1900,Western,No,Yes
+Balaclava,1690000,1890,Southern,Yes,Yes
+Moonee Ponds,860000,1920,Western,No,Yes
+Moonee Ponds,1260000,,Western,Yes,Yes
+Moonee Ponds,1505000,1910,Western,Yes,Yes
+Yarraville,1035000,,Western,No,Yes
+Yarraville,767000,1920,Western,No,Yes
+Yarraville,951000,,Western,No,Yes
+Yarraville,740000,,Western,No,Yes
+Yarraville,1275000,1910,Western,No,Yes
+Yarraville,1028000,,Western,Yes,Yes
+Yarraville,1450000,2016,Western,Yes,Yes
+Yarraville,1430000,1940,Western,Yes,Yes
+Malvern,1965000,1890,Southern,Yes,Yes
+Malvern,2325000,,Southern,Yes,Yes
+Malvern,3470000,1915,Southern,Yes,Yes
+Malvern,2325000,2006,Southern,Yes,Yes
+Elwood,1675000,,Southern,No,Yes
+Spotswood,775000,,Western,No,Yes
+Elwood,1238000,1996,Southern,Yes,Yes
+Elwood,1561000,,Southern,Yes,Yes
+Spotswood,1161000,2000,Western,Yes,Yes
+Coburg,700000,2000,Northern,No,Yes
+Coburg,845000,1980,Northern,No,Yes
+Coburg,1075000,1925,Northern,No,Yes
+Coburg,1025000,1950,Northern,No,Yes
+Coburg,967000,,Northern,No,Yes
+Coburg,1130000,1945,Northern,No,Yes
+Coburg,835000,,Northern,No,Yes
+Camberwell,2105000,1940,Southern,No,Yes
+Camberwell,1470000,,Southern,No,Yes
+Coburg,635000,1920,Northern,Yes,Yes
+Coburg,1461000,,Northern,Yes,Yes
+Coburg,1020000,1985,Northern,Yes,Yes
+Camberwell,3400000,1960,Southern,Yes,Yes
+Camberwell,1750000,,Southern,Yes,Yes
+Camberwell,3300000,2016,Southern,Yes,Yes
+Ivanhoe,1220000,1975,Eastern,No,Yes
+Ivanhoe,1758000,,Eastern,Yes,Yes
+Ivanhoe,2090000,1980,Eastern,Yes,Yes
+Essendon,897000,2000,Western,No,Yes
+Essendon,1560000,1950,Western,No,Yes
+Essendon,1255000,,Western,No,Yes
+Williamstown,1337500,,Western,No,Yes
+Williamstown,811000,,Western,No,Yes
+Williamstown,1210000,1910,Western,No,Yes
+Essendon,1402000,1940,Western,Yes,Yes
+Williamstown,1630000,2010,Western,Yes,Yes
+Essendon,2355000,1920,Western,Yes,Yes
+Williamstown,1262000,,Western,Yes,Yes
+Caulfield Northern,1870000,,Southern,Yes,Yes
+Caulfield Northern,2625000,1910,Southern,Yes,Yes
+Western Footscray,910000,1980,Western,No,Yes
+Western Footscray,1575000,1930,Western,No,Yes
+Western Footscray,326500,,Western,No,Yes
+Western Footscray,1028000,,Western,Yes,Yes
+Newport,910000,,Western,No,Yes
+Newport,1199000,,Western,No,Yes
+Newport,890000,1900,Western,No,Yes
+Newport,1100000,,Western,Yes,Yes
+Newport,2015000,,Western,Yes,Yes
+Maribyrnong,1180000,1960,Western,Yes,Yes
+Maribyrnong,1117000,2005,Western,Yes,Yes
+Preston,1040000,1940,Northern,No,Yes
+Preston,520000,2012,Northern,No,Yes
+Preston,900000,,Northern,No,Yes
+Canterbury,3800000,,Southern,No,Yes
+Aberfeldie,1150000,2010,Western,Yes,Yes
+Aberfeldie,1325000,,Western,Yes,Yes
+Coburg Northern,650000,1930,Northern,No,Yes
+Balwyn Northern,1520000,,Southern,No,Yes
+Glen Iris,1751000,1930,Southern,No,Yes
+Glen Iris,2200000,1930,Southern,No,Yes
+Glen Iris,1500000,1935,Southern,No,Yes
+Maidstone,740000,1950,Western,No,Yes
+Maidstone,770000,1955,Western,No,Yes
+Glen Iris,1857000,1930,Southern,Yes,Yes
+Balwyn Northern,1250000,1950,Southern,Yes,Yes
+Glen Iris,1950000,1960,Southern,Yes,Yes
+Balwyn Northern,1900000,1974,Southern,Yes,Yes
+Glen Iris,2725000,2007,Southern,Yes,Yes
+Caulfield Eastern,1000000,1960,Southern,No,Yes
+Caulfield Southern,1570000,,Southern,No,Yes
+Caulfield Southern,1200000,1920,Southern,Yes,Yes
+Heidelberg Western,808000,,Eastern,No,Yes
+Heidelberg Western,652000,,Eastern,No,Yes
+Heidelberg Western,715000,,Eastern,No,Yes
+Heidelberg Western,722000,1950,Eastern,No,Yes
+Essendon Northern,1425000,,Western,Yes,Yes
+Bellfield,720000,2012,Eastern,Yes,Yes
+Strathmore,1194000,1930,Western,No,Yes
+Strathmore,1000000,,Western,No,Yes
+Balwyn,2275000,,Southern,Yes,Yes
+Strathmore,1635000,1995,Western,Yes,Yes
+Balwyn,2810000,,Southern,Yes,Yes
+Gardenvale,1250000,2004,Southern,Yes,Yes
+Pascoe Vale,810000,,Northern,No,Yes
+Pascoe Vale,960000,1950,Northern,No,Yes
+Pascoe Vale,820000,,Northern,No,Yes
+Pascoe Vale,670000,1949,Northern,No,Yes
+Pascoe Vale,985000,2007,Northern,Yes,Yes
+Heidelberg Heights,850000,,Eastern,No,No
+Heidelberg Heights,510000,,Eastern,No,No
+Heidelberg Heights,1060000,,Eastern,No,No
+Heidelberg Heights,1100000,1925,Eastern,No,No
+Heidelberg Heights,915000,1950,Eastern,No,No
+Avondale Heights,875000,1960,Western,No,No
+Avondale Heights,730000,,Western,Yes,No
+Avondale Heights,850000,,Western,Yes,No
+Heidelberg,1375000,1965,Eastern,No,No
+Brighton Eastern,1920000,1960,Southern,No,No
+Brighton Eastern,1100000,,Southern,No,No
+Brighton Eastern,1447000,,Southern,No,No
+Brighton Eastern,994000,,Southern,Yes,No
+Brighton Eastern,1537000,1999,Southern,Yes,No
+Braybrook,765000,1960,Western,No,No
+Brooklyn,507000,2014,Western,No,No
+Ashburton,1800000,1950,Southern,Yes,No
+Ashburton,1830000,1940,Southern,Yes,No
+Altona Northern,970000,,Western,No,No
+Altona Northern,815000,1960,Western,Yes,No
+Reservoir,555000,1970,Northern,No,No
+Reservoir,790000,1950,Northern,No,No
+Reservoir,928000,,Northern,No,No
+Reservoir,500250,1960,Northern,No,No
+Reservoir,601000,1965,Northern,No,No
+Reservoir,968000,,Northern,No,No
+Reservoir,395000,2014,Northern,No,No
+Reservoir,772000,,Northern,No,No
+Brighton,1701000,,Southern,No,No
+Malvern Eastern,2412000,,Southern,No,No
+Surrey Hills,1135000,,Southern,No,No
+Niddrie,991000,1950,Western,No,No
+Niddrie,1020000,,Western,No,No
+Reservoir,540000,2003,Northern,Yes,No
+Reservoir,810000,,Northern,Yes,No
+Brighton,2375000,,Southern,Yes,No
+Malvern Eastern,960000,1970,Southern,Yes,No
+Brighton,2000000,,Southern,Yes,No
+Surrey Hills,1185000,2000,Southern,Yes,No
+Surrey Hills,2160000,1969,Southern,Yes,No
+Brighton,3050000,1995,Southern,Yes,No
+Rosanna,780000,1970,Eastern,No,No
+Rosanna,1000000,,Eastern,No,No
+Rosanna,867000,1960,Eastern,No,No
+Carnegie,1910000,,Southern,No,No
+Carnegie,1252000,,Southern,No,No
+Carnegie,1655000,1915,Southern,Yes,No
+Carnegie,1410000,,Southern,Yes,No
+Burwood,1468000,,Southern,No,No
+Bulleen,833000,,Eastern,No,No
+Ormond,981000,,Southern,No,No
+Mont Albert,3900000,1903,Eastern,Yes,No
+Ormond,1470000,1980,Southern,Yes,No
+Hadfield,715888,1960,Northern,No,No
+Murrumbeena,692000,1991,Southern,No,No
+Hadfield,918000,,Northern,Yes,No
+Hadfield,815000,1950,Northern,Yes,No
+Murrumbeena,1400000,1955,Southern,Yes,No
+Ashwood,1305000,1960,Southern,No,No
+Ashwood,855000,1958,Southern,Yes,No
+Fawkner,782000,,Northern,No,No
+Fawkner,640000,1965,Northern,No,No
+Kingsbury,1000000,2000,Northern,Yes,No
+Sunshine,890000,,Western,No,No
+Sunshine,794000,,Western,No,No
+Sunshine,607000,1965,Western,No,No
+Sunshine,910000,1992,Western,Yes,No
+Seaholme,2000000,2005,Western,Yes,No
+Keilor Eastern,695000,,Western,No,No
+Glenroy,741250,1955,Northern,No,No
+Glenroy,500000,,Northern,No,No
+Glenroy,762700,1960,Northern,No,No
+Bentleigh,1230000,,Southern,No,No
+Bentleigh,1470000,1950,Southern,Yes,No
+Bentleigh,1280000,,Southern,Yes,No
+Bentleigh,1150000,,Southern,Yes,No
+Bentleigh,1900000,1926,Southern,Yes,No
+Box Hill,1670000,1924,Eastern,Yes,No
+Sunshine Northern,520000,,Western,No,No
+Sunshine Northern,705000,,Western,Yes,No
+Airport Western,720000,,Western,No,No
+Sunshine Western,795000,,Western,No,No
+Sunshine Western,657000,1975,Western,Yes,No
+Chadstone,1260000,2001,Southern,Yes,No
+Hampton,1875000,,Southern,Yes,No
+Hampton,3325000,1997,Southern,Yes,No
+Altona,845000,1950,Western,No,No
+Altona,1030000,,Western,No,No
+Viewbank,915000,,Eastern,Yes,No
+Bentleigh Eastern,1630000,,Southern,No,No
+Bentleigh Eastern,1370000,1970,Southern,No,No
+Bentleigh Eastern,1110000,,Southern,No,No
+Bentleigh Eastern,1433500,1950,Southern,No,No
+Bentleigh Eastern,1200000,1960,Southern,No,No
+Bentleigh Eastern,1360000,,Southern,No,No
+Albion,791000,1970,Western,No,No
+Albion,660000,,Western,No,No
+Albion,625000,,Western,No,No
+Bentleigh Eastern,1175000,1980,Southern,Yes,No
+Doncaster,1782000,2002,Eastern,Yes,No
+Doncaster,1401000,1970,Eastern,Yes,No
+Oakleigh,1045000,1950,Southern,No,No
+Oakleigh,1025000,1940,Southern,No,No
+Jacana,611000,1966,Northern,No,No
+Hampton Eastern,1471000,,Southern,Yes,No
+Keilor Park,843000,,Western,Yes,No
+Moorabbin,1016000,2000,Southern,Yes,No
+Oakleigh Southern,1067000,1940,Eastern,No,No
+Oakleigh Southern,900000,1987,Eastern,Yes,No
+Oakleigh Southern,1310000,1960,Eastern,Yes,No
+Oakleigh Southern,800000,,Eastern,Yes,No
+Watsonia,632000,,Northern,No,No
+Yallambie,753000,1975,Northern,Yes,No
+Yallambie,720000,1978,Northern,Yes,No
